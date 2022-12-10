@@ -19,11 +19,8 @@ public class GatewayApplication {
 
 
     @Bean
-    RouteLocator routeLocator(RouteLocatorBuilder builder){
-        return builder.routes()
-                .route((r)->r.path("/customers/**").uri("http://localhost:8081/"))
-                .route((r)->r.path("/products/**").uri("http://localhost:8082/"))
-                .build();
+    DiscoveryClientRouteDefinitionLocator definitionLocator(ReactiveDiscoveryClient rdc, DiscoveryLocatorProperties properties){
+        return new DiscoveryClientRouteDefinitionLocator(rdc,properties);
     }
 
 }
