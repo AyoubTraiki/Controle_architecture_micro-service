@@ -38,7 +38,7 @@
 
 >Billing-service using open Feign
 <p align="center">
-<img alt="Sign_in" src="https://user-images.githubusercontent.com/78284492/206851590-4b21165f-deea-4e9e-af48-36fcb5eca896.PNG" width="800" height="500" />
+<img alt="Sign_in" src="https://user-images.githubusercontent.com/78284492/206851590-4b21165f-deea-4e9e-af48-36fcb5eca896.PNG" width="1000" height="500" />
 </p>
 
 >Billing-service using open Feign (Bill)
