@@ -3,17 +3,17 @@
 
 >Customer-service
 <p align="center">
-<img alt="Sign_in" src="https://user-images.githubusercontent.com/78284492/206850886-2bc633cf-7fc8-4225-9706-aac7a8c17cb1.PNG" width="500" height="500" />
+<img alt="Sign_in" src="https://user-images.githubusercontent.com/78284492/206850886-2bc633cf-7fc8-4225-9706-aac7a8c17cb1.PNG" width="800" height="300" />
 </p>
 
 >Inventory-service
 <p align="center">
-<img alt="Sign_in" src="https://user-images.githubusercontent.com/78284492/206850977-6819d295-fde8-45f5-b6e8-08f86280b26b.PNG" width="500" height="500" />
+<img alt="Sign_in" src="https://user-images.githubusercontent.com/78284492/206850977-6819d295-fde8-45f5-b6e8-08f86280b26b.PNG" width="800" height="300" />
 </p>
 
 >Customer-service with static route
 <p align="center">
-<img alt="Sign_in" src="https://user-images.githubusercontent.com/78284492/206851032-6f2f3bb7-a59f-4140-9f55-90ef5d682861.PNG" width="500" height="500" />
+<img alt="Sign_in" src="https://user-images.githubusercontent.com/78284492/206851032-6f2f3bb7-a59f-4140-9f55-90ef5d682861.PNG" width="800" height="300" />
 </p>
 
 >Inventory-service with static route
