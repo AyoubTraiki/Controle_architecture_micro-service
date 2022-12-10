@@ -13,7 +13,7 @@
 
 >Customer-service with static route
 <p align="center">
-<img alt="Sign_in" src="https://user-images.githubusercontent.com/78284492/206851032-6f2f3bb7-a59f-4140-9f55-90ef5d682861.PNG" width="800" height="300" />
+<img alt="Sign_in" src="https://user-images.githubusercontent.com/78284492/206851032-6f2f3bb7-a59f-4140-9f55-90ef5d682861.PNG" width="500" height="500" />
 </p>
 
 >Inventory-service with static route
@@ -23,7 +23,7 @@
 
 >Micro service registred with Eureka
 <p align="center">
-<img alt="Sign_in" src="https://user-images.githubusercontent.com/78284492/206851233-b6626955-28f8-44a0-9622-b4afbb968ba0.PNG" width="500" height="500" />
+<img alt="Sign_in" src="https://user-images.githubusercontent.com/78284492/206851233-b6626955-28f8-44a0-9622-b4afbb968ba0.PNG" width="800" height="300" />
 </p>
 
 >Inventory-service registred with Eureka (dynamic route)
