@@ -53,7 +53,7 @@
 
 >Billing-service using open Feign (dynamic route)
 <p align="center">
-<img alt="Sign_in" src="https://user-images.githubusercontent.com/78284492/206851577-6a64f255-94d5-4f3a-87d7-43ea9af0d876.PNG" width="700" height="200" />
+<img alt="Sign_in" src="https://user-images.githubusercontent.com/78284492/206851577-6a64f255-94d5-4f3a-87d7-43ea9af0d876.PNG" width="900" height="200" />
 </p>
 
 >Keycloak realm
