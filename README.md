@@ -53,7 +53,7 @@
 
 >Billing-service using open Feign (dynamic route)
 <p align="center">
-<img alt="Sign_in" src="https://user-images.githubusercontent.com/78284492/206851577-6a64f255-94d5-4f3a-87d7-43ea9af0d876.PNG" width="800" height="300" />
+<img alt="Sign_in" src="https://user-images.githubusercontent.com/78284492/206851577-6a64f255-94d5-4f3a-87d7-43ea9af0d876.PNG" width="500" height="300" />
 </p>
 
 >Keycloak realm
@@ -63,7 +63,7 @@
 
 >Keycloak client
 <p align="center">
-<img alt="Sign_in" src="https://user-images.githubusercontent.com/78284492/219972979-1b290698-3b9e-455f-ac74-a47fc525990d.PNG" width="800" height="300" />
+<img alt="Sign_in" src="https://user-images.githubusercontent.com/78284492/219972979-1b290698-3b9e-455f-ac74-a47fc525990d.PNG" width="500" height="300" />
 </p>
 
 >Keycloak user
@@ -78,16 +78,16 @@
 
 >Keycloak auth postman
 <p align="center">
-<img alt="Sign_in" src="https://user-images.githubusercontent.com/78284492/219973124-3e911900-4463-4dcb-9a8a-7a2fe464dd8c.PNG" width="800" height="300" />
-<img alt="Sign_in" src="https://user-images.githubusercontent.com/78284492/219973126-269fc000-3add-48ee-9a70-b95b491dafe5.PNG" width="800" height="300" />
+<img alt="Sign_in" src="https://user-images.githubusercontent.com/78284492/219973124-3e911900-4463-4dcb-9a8a-7a2fe464dd8c.PNG" width="500" height="300" />
+<img alt="Sign_in" src="https://user-images.githubusercontent.com/78284492/219973126-269fc000-3add-48ee-9a70-b95b491dafe5.PNG" width="500" height="300" />
 </p>
 
 >Keycloak jwt test
 <p align="center">
-<img alt="Sign_in" src="https://user-images.githubusercontent.com/78284492/219973203-ca7728fb-f6e0-441d-9189-904906187301.PNG" width="800" height="300" />
+<img alt="Sign_in" src="https://user-images.githubusercontent.com/78284492/219973203-ca7728fb-f6e0-441d-9189-904906187301.PNG" width="500" height="300" />
 </p>
 
 >Kafka stream
 <p align="center">
-<img alt="Sign_in" src="https://user-images.githubusercontent.com/78284492/219973303-43a6b016-74c9-4619-9c38-817a3d1f5a53.PNG" width="800" height="300" />
+<img alt="Sign_in" src="https://user-images.githubusercontent.com/78284492/219973303-43a6b016-74c9-4619-9c38-817a3d1f5a53.PNG" width="500" height="300" />
 </p>
